@@ -1,0 +1,12 @@
+{
+  "name": "node-tiff",
+  "version": "0.0.1",
+  "description": "TIFF Decoder",
+  "main": "lib/tiff.js",
+  "scripts": {
+    "build": "cake build"
+  },
+  "devDependencies": {
+    "coffeescript": "^2.0.2"
+  }
+}
